@@ -1,3 +1,3 @@
 # Hello-world
 
-Hi,everyone! I'm bryan who is a student in FuJen University.
+Hi,everyone! I'm bryan who major in EE, Fu Jen Catholic University.
